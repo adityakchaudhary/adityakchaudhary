@@ -1,5 +1,5 @@
 # 💫 About Me:
-I love AI research & Dogs, nothing else. <br>
+I love doing research 
 [Website](https://adityakchaudhary.me/)<br>
 [LinkedIn](https://in.linkedin.com/in/adityakchaudhary)<br>
 
