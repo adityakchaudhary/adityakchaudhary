@@ -1,5 +1,6 @@
 # 🎡 About Me:
-I love doing research.
+I love doing research.<br>
+
 [Website](https://adityakchaudhary.github.io/)<br>
 [LinkedIn](https://linkedin.com/in/adityakchaudhary)<br>
 
