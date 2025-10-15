@@ -1,5 +1,7 @@
 # 🎡 About Me:
-I love doing research.<br>
+I love doing research.
+Working on AI, Machine Learning algorithms.
+<br>
 
 [Website](https://adityakchaudhary.github.io/)<br>
 [LinkedIn](https://linkedin.com/in/adityakchaudhary)<br>
