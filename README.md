@@ -1,5 +1,5 @@
 # 🎡 About Me:
-I love doing research.
+I love doing research. <br>
 Working on AI, Machine Learning algorithms.
 <br>
 
